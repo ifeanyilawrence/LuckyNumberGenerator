@@ -154,6 +154,7 @@ namespace LuckyNumber
         }
         private void btnClearNumbers_Click(object sender, EventArgs e)
         {
+            //Clear the listbox, and other textboxes
             tbxNumber.Text = "";
             tbxSmallestNumber.Text = "";
             tbxLargestNumber.Text = "";
