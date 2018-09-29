@@ -8,3 +8,13 @@ C:\Users\lawrence\DotNetProjects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.c
 C:\Users\lawrence\DotNetProjects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.csproj.CoreCompileInputs.cache
 C:\Users\lawrence\DotNetProjects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.exe
 C:\Users\lawrence\DotNetProjects\LuckyNumber\LuckyNumber\obj\Debug\LuckyNumber.pdb
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\bin\Debug\LuckyNumber.exe.config
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\bin\Debug\LuckyNumber.exe
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\bin\Debug\LuckyNumber.pdb
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.Form1.resources
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.Properties.Resources.resources
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.csproj.CoreCompileInputs.cache
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.exe
+\\psf\Home\Desktop\DotnetProjects\LuckyNumberGenerator\LuckyNumber\obj\Debug\LuckyNumber.pdb
